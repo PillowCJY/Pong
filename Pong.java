@@ -1,4 +1,4 @@
-/*Chen Junyi, 16192554 , Assignment 1 159103*/
+/*Chen Junyi, 16192554 , Assignment 1 159103 hahahha by jack*/
 /*Player 1 : W - move up S - move down
  * player 2: ¡ü - move up ¡ý-move down
  * press 1 - Single player play with AI 
