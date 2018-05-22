@@ -1,6 +1,6 @@
-/*Chen Junyi, 16192554 , Assignment 1 159103 hahahha by jack*/
+/*Junyi Chen*/
 /*Player 1 : W - move up S - move down
- * player 2: ¡ü - move up ¡ý-move down
+ * player 2: Â¡Ã¼ - move up Â¡Ã½-move down
  * press 1 - Single player play with AI 
  * press 2 - Double player  
  */
@@ -455,7 +455,7 @@ public class Pong extends GameEngine {
 			
 			drawText(30,100,"Pong - Junyi Chen 16192554");
 			drawText(0,170,"Player 1: W-Move up S-Move down", "Arial", 17);
-			drawText(0,210,"Player 2: ¡ü-Move up ¡ý-Move down", "Arial", 17);
+			drawText(0,210,"Player 2: Â¡Ã¼-Move up Â¡Ã½-Move down", "Arial", 17);
 			
 			drawText(200,350,"Press 1 for 1 player", "Arial", 20);
 			drawText(200,390,"Press 2 for 2 players", "Arial", 20);
